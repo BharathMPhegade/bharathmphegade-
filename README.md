@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making;MCA+Student+%40+Amrita+Vishwa+Vidyapeetham;Python+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-### 👋 Hello, I'm Bharath M P Hegade
-
 💡 *Building software that solves real-world problems through clean code, continuous learning, and innovation.*
 
 </div>
