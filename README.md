@@ -9,11 +9,7 @@
 💡 *Building software that solves real-world problems through clean code, continuous learning, and innovation.*
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
+th="45%" align="center">
 
 <table>
 <tr>
