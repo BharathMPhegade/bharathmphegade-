@@ -14,26 +14,44 @@
 
 ## 👨‍💻 About Me
 
-🎓 **MCA Student** at **Amrita Vishwa Vidyapeetham**
 
-💻 Passionate about **Software Engineering**, **Full-Stack Development**, and building practical applications.
+<table>
+<tr>
 
-🌱 **Currently Exploring**
-- 📚 Data Structures & Algorithms
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
+<td width="55%" valign="top">
 
-🎯 **Career Goal**
+<h2>👨‍💻 About Me</h2>
 
-To become a Software Engineer who designs scalable, efficient, and impactful software solutions.
+<p>
+I'm <b>Bharath M P Hegade</b>, an MCA student at
+<b>Amrita Vishwa Vidyapeetham</b> with a passion for
+building modern software that solves real-world problems.
+</p>
 
-♟️ **Beyond Coding**
+<ul>
+<li>🎓 MCA Student @ Amrita Vishwa Vidyapeetham</li>
+<li>💻 Interested in Software Engineering & Full Stack Development</li>
+<li>🤖 Exploring Artificial Intelligence & Machine Learning</li>
+<li>📚 Practicing Data Structures & Algorithms on LeetCode</li>
+<li>🚀 Building projects to strengthen my development skills</li>
+<li>🎯 Goal: Become a Software Engineer at a product-based company</li>
+</ul>
 
-- ♟ Playing Chess
-- 🚴 Cycling
-- 📖 Reading Kannada Novels
+<h3>✨ Beyond Coding</h3>
 
----
+<p>
+♟️ Chess &nbsp; • &nbsp;
+🚴 Cycling &nbsp; • &nbsp;
+📖 Reading Kannada Novels
+</p>
 
-> *"Code. Learn. Build. Repeat."* 🚀
+</td>
+
+<td width="45%" align="center">
+
+<img src="YOUR_GIF_LINK_HERE" width="320">
+
+</td>
+
+</tr>
+</table>
