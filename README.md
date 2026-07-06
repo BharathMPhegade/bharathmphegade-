@@ -45,7 +45,7 @@ building modern software that solves real-world problems.
 
 <td width="55%" align="center">
 
-<img src="Assets/Gif/gif.gif" width="500" height="500">
+<img src="Assets/Gif/gif.gif" width="400" height="500">
 
 </td>
 
